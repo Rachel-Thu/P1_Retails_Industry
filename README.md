@@ -37,13 +37,13 @@ This section presents a working-level pivot table preview followed by the final 
 
 ### Working Pivot Table Preview
 
-![Working Pivot Tables](https://github.com/user-attachments/assets/684c7091-7fb4-457f-a2a8-7a5c006a81a7)
+![Working Pivot Tables](https://github.com/user-attachments/assets/cf542b6b-d0cb-4355-ad23-22f50573011f)
 
 ## Dashboard Preview
 
 A visual summary of the sales performance is provided in the following dashboard:
 
-![Sales Performance Dashboard](https://github.com/user-attachments/assets/bd117d13-b748-42c5-b2c7-0f7c57bcdbbc)
+![Sales Performance Dashboard](https://github.com/user-attachments/assets/71aba2bd-46dc-467d-b29f-ea4cf66bf91b)
 
 ---
 
