@@ -64,7 +64,7 @@ This section presents a working-level pivot table preview followed by the final 
 
 ![Working Pivot Tables](https://github.com/user-attachments/assets/cf542b6b-d0cb-4355-ad23-22f50573011f)
 
-## Dashboard Preview
+### Dashboard Preview
 
 A visual summary of the sales performance is provided in the following dashboard:
 
@@ -84,7 +84,7 @@ A visual summary of the sales performance is provided in the following dashboard
 
 ### Recommendations
 
-- **Maximize High Performers:** Ensure consistent stock, competitive pricing of top-selling items. Explore cross-selling opportunities (e.g., router + network extender).  
+- **Maximize High Performers:** Ensure consistent stock and competitive pricing of top-selling items. Explore cross-selling opportunities (e.g., router + network extender).  
 - **Revitalize Low Performers:** Bundle underperforming products with high-demand items. Collect customer feedback to uncover product-specific issues (e.g., price, awareness). 
 - **Enhance Mandalay Region Strategy:** Investigate supply chain, promotions, and product fit for Mandalay; consider targeted campaigns.
 - **Recover Year-End Sales:** Review previous campaign effectiveness; launch flash promotions to capture seasonal demand.  
@@ -116,4 +116,4 @@ A visual summary of the sales performance is provided in the following dashboard
 1. Clone or download this repository  
 2. Open the workbook P1_ProjectFile_May.xlsm and enable macros if prompted.  
 3. Navigate through sheets from KP01 to KP05 to review the full analysis workflow.
-4. Use the Sales Performance Dashboard sheet for a high-level summary and key insights.
+4. Use the "Sales Performance Dashboard" sheet for a high-level summary and key insights.
