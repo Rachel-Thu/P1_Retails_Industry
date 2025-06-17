@@ -15,6 +15,7 @@
 
 This project presents a comprehensive analysis of retail sales performance utilizing Microsoft Excel, including advanced tools such as pivot tables and interactive dashboards. The analysis uncovers critical patterns across product categories, regional markets, and customer demographics.
 Key outcomes include the identification of high- and low-performing segments, regional performance disparities, and seasonal trends. These findings provide valuable insights to support strategic initiatives aimed at driving revenue growth, optimizing inventory, and enhancing marketing precision.
+
 ---
 
 ## Project Objective
