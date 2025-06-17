@@ -7,7 +7,12 @@
 - [Methodology Overview](#methodology-overview)  
 - [Tools and Technologies](#tools-and-technologies)  
 - [Project Overview](#project-overview)  
+  - [Working Pivot Table Preview](#working-pivot-table-preview)  
+  - [Dashboard Preview](#dashboard-preview)  
 - [Key Business Insights](#key-business-insights)  
+  - [Key Findings](#key-findings)  
+  - [Recommendations](#recommendations)  
+  - [Next Steps](#next-steps)  
 - [Repository Contents](#repository-contents)  
 - [How to Use](#how-to-use)
 
