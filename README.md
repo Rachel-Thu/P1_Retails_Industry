@@ -1,12 +1,14 @@
 # Retail Industry Data Analysis
 
-This project delivers a structured analysis of retail sales data using Microsoft Excel. The analysis aims to uncover trends, highlight underperforming areas, and support data-driven business decisions to improve overall revenue performance.
+## Executive Summary
+
+This project delivers an in-depth analysis of retail sales performance leveraging Microsoft Excel tools, including pivot tables and dashboards. The objective is to uncover meaningful patterns across products, categories, regions, and customer demographics. The analysis identifies top-performing and underperforming segments, reveals regional sales disparities, and highlights seasonal trends. These findings provide actionable insights to guide strategic initiatives aimed at driving revenue growth, improving inventory management, and enhancing targeted marketing efforts.
 
 ---
 
 ## Project Objective
 
-The primary business goal is to identify product and category-level performance trends to support revenue growth strategies. The analysis focuses on understanding sales patterns, diagnosing underperformance, and developing actionable recommendations.
+The primary business goal is to support revenue growth by identifying key product and category performance trends. This analysis aims to diagnose underperformance, optimize resource allocation, and inform strategic decision-making.
 
 ---
 
