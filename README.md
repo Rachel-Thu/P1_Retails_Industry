@@ -51,7 +51,6 @@ The project follows a logical, Excel-based analysis process:
 ## Tools and Technologies
 
 - **Microsoft Excel**: Data preparation, pivot tables, dashboard creation
-- **Power Pivot**: Data modeling and advanced calculations
 - **Statistical Techniques**: Descriptive analytics, IQR-based outlier detection
 
 ---
