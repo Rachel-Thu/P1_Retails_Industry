@@ -109,7 +109,7 @@ A visual summary of the sales performance is provided in the following dashboard
 - Key insights and actionable recommendations
 
 ---
-
+ 
 ## How to Use
 
 1. Clone or download this repository  
